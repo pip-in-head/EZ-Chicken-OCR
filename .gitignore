@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+config.json
+points_state.json
+*.log
+.env
+.DS_Store
