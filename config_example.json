@@ -1,0 +1,14 @@
+{
+  "user1": {
+    "username": "用户1",
+    "password": "密码",
+    "Authorization": ""
+  },
+  "user2": {
+    "username": "用户2",
+    "password": "密码",
+    "Authorization": ""
+  },
+  "CAPTCHA_TOKEN": "可选-云码token(本地OCR失败时回退用)",
+  "LARK_WEBHOOK": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+}
