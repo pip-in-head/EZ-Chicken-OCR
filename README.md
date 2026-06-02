@@ -1,6 +1,6 @@
 # EZ Chicken + OCR 🐔
 
-M-SEC（多账户自动签到脚本，基于 [crazy0x70/EZ-Checkin](https://github.com/crazy0x70/EZ-Checkin) 改造，核心改动：**将远程云码验证码识别替换为纯本地 OCR（ddddocr）**，无需付费 API 即可自动识别验证码登录。
+M-SEC多账户自动签到脚本，基于 [crazy0x70/EZ-Checkin](https://github.com/crazy0x70/EZ-Checkin) 改造，核心改动：**将远程云码验证码识别替换为纯本地 OCR（ddddocr）**，无需付费 API 即可自动识别验证码登录。
 
 ## ✨ 与原版的区别
 
